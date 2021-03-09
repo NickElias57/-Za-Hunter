@@ -11,6 +11,7 @@
 		015FDE6B25F715B20001221E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015FDE6A25F715B20001221E /* ContentView.swift */; };
 		015FDE6D25F715C10001221E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 015FDE6C25F715C10001221E /* Assets.xcassets */; };
 		015FDE7025F715C10001221E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 015FDE6F25F715C10001221E /* Preview Assets.xcassets */; };
+		015FDE7925F717B10001221E /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015FDE7825F717B10001221E /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		015FDE6C25F715C10001221E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		015FDE6F25F715C10001221E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		015FDE7125F715C10001221E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		015FDE7825F717B10001221E /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				015FDE6825F715B20001221E /* _Za_HunterApp.swift */,
 				015FDE6A25F715B20001221E /* ContentView.swift */,
+				015FDE7825F717B10001221E /* LocationManager.swift */,
 				015FDE6C25F715C10001221E /* Assets.xcassets */,
 				015FDE7125F715C10001221E /* Info.plist */,
 				015FDE6E25F715C10001221E /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				015FDE6B25F715B20001221E /* ContentView.swift in Sources */,
 				015FDE6925F715B20001221E /* _Za_HunterApp.swift in Sources */,
+				015FDE7925F717B10001221E /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
